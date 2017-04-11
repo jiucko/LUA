@@ -1,2 +1,2 @@
 # LUA
-some lua script
+some lua scripts
